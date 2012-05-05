@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ROM Settings</string>	
+    <string name="custom_carrier_label_title">Custom carrier label</string>
+    <string name="custom_carrier_label_empty">Please enter a new one!</string>
+    <string name="custom_carrier_label_warning">Custom label currently not set. Once you specify a custom one, there is no way back without doing a data wipe</string>
+</resources>
