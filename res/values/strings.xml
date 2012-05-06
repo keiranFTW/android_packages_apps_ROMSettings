@@ -4,4 +4,6 @@
     <string name="custom_carrier_label_title">Custom carrier label</string>
     <string name="custom_carrier_label_empty">Please enter a new one!</string>
     <string name="custom_carrier_label_warning">Custom label currently not set. Once you specify a custom one, there is no way back without doing a data wipe</string>
+    <string name="navigation_bar_height_title">Navigation bar height</string>
+    <string name="navigation_bar_width_title">Navigation bar width</string>
 </resources>
